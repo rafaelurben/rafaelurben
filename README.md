@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**rafaelurben/rafaelurben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rafael Urben and I live in Switzerland. I'm currently visiting a so-called "Gymnasium", which is also known as high school in English. 
+My aim is to study computer science.
 
-Here are some ideas to get you started:
+If you want to learn more about me, you can find more informations on my [website](https://rafaelurben.github.io). (w.i.p)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Languages and Frameworks
+
+I currently know/use the following languages/frameworks:
+
+- Python
+  - Django
+  - PyGame
+- JavaScript
+- CSS
+  - Bootstrap (with [Bootstrapstudio](https://bootstrapstudio.io))
+  
