@@ -5,6 +5,10 @@ My aim is to study computer science.
 
 If you want to learn more about me, you can find more informations on my [website](https://rafaelurben.github.io). (w.i.p)
 
+#### Projects
+
+The projects I'm currently working on and my favorite projects can be found under pinned repositories.
+
 #### Languages and Frameworks
 
 I currently know/use the following languages/frameworks:
