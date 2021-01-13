@@ -7,7 +7,7 @@ If you want to learn more about me, you can find more informations on my [websit
 
 #### Projects
 
-The projects I'm currently working on and my favorite projects can be found under pinned repositories.
+The projects I'm currently working on and my favorite projects can be found under pinned repositories. There are also some private projects which aren't public (yet).
 
 #### Languages and Frameworks
 
@@ -19,4 +19,5 @@ I currently know/use the following languages/frameworks:
 - JavaScript
 - CSS
   - Bootstrap (with [Bootstrapstudio](https://bootstrapstudio.io))
+- C# (in Unity)
   
