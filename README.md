@@ -11,7 +11,7 @@ The projects I'm currently working on can soon be found on my website and my fav
 
 #### Languages and Frameworks
 
-I currently know/use the following languages/frameworks:
+I currently know/use the following languages/frameworks/apps:
 
 - Python
   - Django
