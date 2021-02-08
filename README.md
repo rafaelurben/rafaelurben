@@ -18,7 +18,9 @@ I currently know/use the following languages/frameworks/apps:
   - Discord.py
   - Many others...
 - JavaScript
+- HTML
 - CSS
   - Bootstrap (with [Bootstrapstudio](https://bootstrapstudio.io))
 - C# (in [Unity](https://unity.com))
   
+I know, these are not only programming languages. Don't judge me for listing HTML here... xD
