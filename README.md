@@ -21,6 +21,14 @@ I currently know/use the following languages/frameworks/apps:
 - HTML
 - CSS
   - Bootstrap (with [Bootstrapstudio](https://bootstrapstudio.io))
-- C# (in [Unity](https://unity.com))
+- C# 
+  - [Unity](https://unity.com)
+  - [UWP](https://visualstudio.microsoft.com/vs/features/universal-windows-platform/) (Universal Windows Platform)
+
+My editors & tools:
+
+- [Visual Studio & Visual Studio Code](https://visualstudio.microsoft.com/)
+- ~~[Atom](https://atom.io)~~ (no longer used)
   
-I know, these are not only programming languages. Don't judge me for listing HTML here... xD
+
+PS: I know that these are not only programming languages. Don't judge me for listing HTML & CSS here... 😂
