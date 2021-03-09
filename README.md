@@ -7,7 +7,7 @@ If you want to learn more about me, you can find more information on my [website
 
 #### Projects
 
-The projects I'm currently working on can soon be found on my website and my favorite projects can be found under pinned repositories. There are also some private projects which aren't public (yet).
+You can find all my projects on my GitHub account. My favourite projects are pinned.
 
 #### Languages and Frameworks
 
@@ -24,11 +24,13 @@ I currently know/use the following languages/frameworks/apps:
 - C# 
   - [Unity](https://unity.com)
   - [UWP](https://visualstudio.microsoft.com/vs/features/universal-windows-platform/) (Universal Windows Platform)
+- Not really worth mentioning:
+  - McFunction (for Minecraft Datapacks)
 
 My editors & tools:
 
 - [Visual Studio & Visual Studio Code](https://visualstudio.microsoft.com/)
-- ~~[Atom](https://atom.io)~~ (no longer used)
+- [Atom](https://atom.io)
   
 
 PS: I know that these are not only programming languages. Don't judge me for listing HTML & CSS here... 😂
