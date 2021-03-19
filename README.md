@@ -25,6 +25,8 @@ I currently know/use the following languages/frameworks/apps:
   - [Unity](https://unity.com)
   - [UWP](https://visualstudio.microsoft.com/vs/features/universal-windows-platform/) (Universal Windows Platform)
 
+Not really worth mentioning:
+
 - McFunction (for Minecraft Datapacks)
 - AutoHotKey
 
