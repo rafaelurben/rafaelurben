@@ -7,7 +7,7 @@ If you want to learn more about me, you can find more information on my [website
 
 #### Projects
 
-You can find all my projects on my GitHub account. My favourite projects are pinned.
+You can find all my projects on my GitHub account. My (current) favourite projects are pinned.
 
 #### Languages and Frameworks
 
