@@ -5,6 +5,8 @@ My aim is to study computer science.
 
 If you want to learn more about me, you can find more information on my [website](https://rafaelurben.ch). (English version in progress... 😉)
 
+If you have any feedback or questions about my projects, you can contact me [via email](mailto:dev@rafaelurben.ch) in English or German. (NOTE: If you don't speak these languages fluently, please use [deepl.com](https://deepl.com) as a translator. 😉)
+
 #### Projects
 
 You can find all my projects on my GitHub account. My (current) favourite projects are pinned.
