@@ -16,26 +16,27 @@ You can find all my projects on my GitHub account. My (current) favourite projec
 I currently know/use the following languages/frameworks/apps:
 
 - Python
-  - Django
-  - Discord.py
+  - [Django](https://www.djangoproject.com)
+  - [Discord.py](https://discordpy.readthedocs.io)
   - Many others...
 - JavaScript
 - HTML
 - CSS
-  - Bootstrap (with [Bootstrapstudio](https://bootstrapstudio.io))
+  - [Bootstrap](https://getbootstrap.com) (with [Bootstrapstudio](https://bootstrapstudio.io))
 - C# 
   - [Unity](https://unity.com)
   - [UWP](https://visualstudio.microsoft.com/vs/features/universal-windows-platform/) (Universal Windows Platform)
 
 Not really worth mentioning:
 
-- McFunction (for Minecraft Datapacks)
-- AutoHotKey
+- [McFunction](https://minecraft.gamepedia.com/Function_(Java_Edition)) (for Minecraft Datapacks)
+- [AutoHotkey](https://www.autohotkey.com/)
 
 My editors & tools:
 
 - [Visual Studio & Visual Studio Code](https://visualstudio.microsoft.com/)
 - [Atom](https://atom.io)
+- [GitHub Desktop](https://desktop.github.com/)
   
 
 PS: I know that these are not only programming languages. Don't judge me for listing HTML & CSS here... 😂
