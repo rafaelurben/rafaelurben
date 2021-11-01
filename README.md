@@ -1,9 +1,9 @@
 # Hi there 👋
 
-My name is Rafael Urben and I live in Switzerland. (Swiss) German is my native language and I speak German, English and a little bit of French. I'm currently visiting a so-called "Gymnasium", which is also known as high school in English. 
+My name is Rafael Urben and I live in Switzerland. (Swiss) German is my native language and I speak German, English and a little bit of French. I'm currently visiting a so-called "Gymnasium", which is also known as high school in English.
 My aim is to study computer science.
 
-If you want to learn more about me, you can find more information on my [website](https://rafaelurben.ch). (Redesign and English version in progress... 😉)
+If you want to learn more about me, you can find more information on my [website](https://rafaelurben.ch). (Redesign and English version are in progress... 😉)
 
 If you have any feedback or questions about my projects, you can contact me [via email](https://go.rafaelurben.ch/devmail).
 
