@@ -45,4 +45,5 @@ I don't actively use all of the listed tools, these are just all tools I've work
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelurben&show_icons=true&theme=dark&count_private=true)](https://github.com/rafaelurben/)
   
 ## Contributions
-[![GitHub Contributions as snake game](https://github.com/rafaelurben/rafaelurben/blob/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
+[![GitHub Snake light](https://github.com/rafaelurben/rafaelurben/blob/output/github-snake-light.svg#gh-light-mode-only)](https://github.com/Platane/snk)
+[![GitHub Snake dark](https://github.com/rafaelurben/rafaelurben/blob/output/github-snake-dark.svg#gh-dark-mode-only)](https://github.com/Platane/snk)
