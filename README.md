@@ -9,13 +9,11 @@ If you have any feedback or questions about my projects, you can contact me [via
 
 ## Projects
 
-You can find all my projects on my GitHub account. My favourite and most time-consuming projects are pinned.
+You can find all my projects as repositories in [my GitHub profile](https://github.com/rafaelurben/). My favourite and most time-consuming projects are pinned.
 
 ## My tools
 
-I don't actively use all of the listed tools, these are just all tools I've worked with before.
-
-### Languages
+I don't actively use all of the listed languages/tools, these are just tools I've worked with before.
 
 [![Python](<https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white>)](https://www.python.org/)
 [![HTML5](<https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white>)](https://www.wikiwand.com/en/HTML5)
@@ -25,14 +23,10 @@ I don't actively use all of the listed tools, these are just all tools I've work
 [![MCFunction](<http://img.shields.io/badge/-MCFunction-62B47A?style=flat&logo=minecraft&logoColor=white>)](https://minecraft.gamepedia.com/Function_(Java_Edition))
 [![AutoHotkey](<https://img.shields.io/badge/-AutoHotkey-334455?style=flat&logo=autohotkey&logoColor=white>)](https://www.autohotkey.com/)
 
-### Frameworks
-
 [![Bootstrap](<https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white>)](https://getbootstrap.com/)
 [![Django](<https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white>)](https://www.djangoproject.com)
 [![React](<https://img.shields.io/badge/-React-20232a?style=flat&logo=react&logoColor=61dafb>)](https://reactjs.org/)
 [![discord.py](<https://img.shields.io/badge/-discord.py-5865F2?style=flat&logo=discord&logoColor=white>)](https://discordpy.readthedocs.io)
-
-### Editors
 
 [![Visual Studio](<http://img.shields.io/badge/-Visual Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white>)](https://visualstudio.com/)
 [![Visual Studio Code](<http://img.shields.io/badge/-VS Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white>)](https://code.visualstudio.com/)
@@ -40,13 +34,10 @@ I don't actively use all of the listed tools, these are just all tools I've work
 [![Bootstrap Studio](<http://img.shields.io/badge/-Bootstrap Studio-7952B3?style=flat&logo=bootstrap&logoColor=white>)](https://bootstrapstudio.io)
 [![Unity](<http://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white>)](https://unity.com/)
 
-### More
-
 [![Git](<http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF>)](https://git-scm.com/)
 [![GitHub](<http://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=FFFFFF>)](https://github.com/)
 [![GitHub Desktop](<http://img.shields.io/badge/-Github Desktop-181717?style=flat&logo=github&logoColor=FFFFFF>)](https://desktop.github.com/)
 [![Heroku](<http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white>)](https://heroku.com/)
-
 
 ## Stats
 [![WakaTime code time](https://wakatime.com/badge/user/c61e21c4-90ec-4953-b64f-e1a589f1e09c.svg)](https://wakatime.com/@rafaelurben)
