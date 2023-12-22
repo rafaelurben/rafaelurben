@@ -3,7 +3,7 @@
 My name is Rafael Urben and I live in Switzerland. (Swiss) German is my native language and I speak German, English and a little bit of French.
 I finished the "Gymnasium" (UK: grammar school / US: high school) in June 2023 and am currently studying computer science at FFHS (Swiss Distance University of Applied Sciences).
 
-If you want to learn more about me, you can find more information on my [website](https://rafaelurben.ch). (Redesign and English version are in progress... 😉)
+If you want to learn more about me, you can find more information on my [website](https://rafaelurben.ch). (Recently redesigned. Currently only available in German.)
 
 If you have any feedback or questions about my projects, you can contact me [via email](https://go.rafaelurben.ch/devmail) or come talk to me on my [Discord server](https://go.rafaelurben.ch/discord).
 
