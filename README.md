@@ -32,6 +32,30 @@ Things I used in the past:
 
 
 ## Stats
-[![WakaTime code time](https://wakatime.com/badge/user/c61e21c4-90ec-4953-b64f-e1a589f1e09c.svg)](https://wakatime.com/@rafaelurben)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelurben&show_icons=true&theme=dark&count_private=true)](https://github.com/rafaelurben/)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rafaelurben&show_icons=true&card_width=495&theme=dark&rank_icon=percentile&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rafaelurben&show_icons=true&card_width=495&theme=default&rank_icon=percentile&count_private=true">
+  <img alt="Rafael's GitHub stats">
+</picture>
+</a>
+<br />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelurben&layout=compact&langs_count=12&card_width=495&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelurben&layout=compact&langs_count=12&card_width=495&theme=default">
+  <img alt="Rafael's top languages on GitHub">
+</picture>
+</a>
+<br />
+<a href="https://wakatime.com/@rafaelurben">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime/?username=rafaelurben&layout=compact&langs_count=12&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime/?username=rafaelurben&layout=compact&langs_count=12&theme=default">
+  <img alt="Rafael's wakatime language stats">
+</picture>
+</a>
+
+
+[![WakaTime code time](https://wakatime.com/badge/user/c61e21c4-90ec-4953-b64f-e1a589f1e09c.svg)](https://wakatime.com/@rafaelurben)
