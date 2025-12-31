@@ -30,32 +30,26 @@ Things I used in the past:
 | Languages | [![C#](<https://img.shields.io/badge/-C%23-659ad2?style=flat&logo=csharp&logoColor=white>)](https://unity3d.com/learning-c-sharp-in-unity-for-beginners) [![MCFunction](<http://img.shields.io/badge/-MCFunction-62B47A?style=flat&logo=minecraft&logoColor=white>)](https://minecraft.gamepedia.com/Function_(Java_Edition)) [![AutoHotkey](<https://img.shields.io/badge/-AutoHotkey-334455?style=flat&logo=autohotkey&logoColor=white>)](https://www.autohotkey.com/) |
 | IDEs & Tools | [![Atom](<http://img.shields.io/badge/-Atom-66595C?style=flat&logo=atom&logoColor=white>)](https://atom.io/) [![Visual Studio](<http://img.shields.io/badge/-Visual Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white>)](https://visualstudio.com/) [![Bootstrap Studio](<http://img.shields.io/badge/-Bootstrap Studio-7952B3?style=flat&logo=bootstrap&logoColor=white>)](https://bootstrapstudio.io) [![Unity](<http://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white>)](https://unity.com/) |
 
-
 ## Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rafaelurben&show_icons=true&card_width=495&theme=dark&rank_icon=percentile&count_private=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rafaelurben&show_icons=true&card_width=495&theme=default&rank_icon=percentile&count_private=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelurben/rafaelurben/refs/heads/output/cards/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafaelurben/rafaelurben/refs/heads/output/cards/stats-light.svg">
   <img alt="Rafael's GitHub stats">
 </picture>
-</a>
 <br />
-<a href="https://github.com/anuraghazra/github-readme-stats">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelurben&layout=compact&langs_count=12&card_width=495&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelurben&layout=compact&langs_count=12&card_width=495&theme=default">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelurben/rafaelurben/refs/heads/output/cards/top-langs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafaelurben/rafaelurben/refs/heads/output/cards/top-langs-light.svg">
   <img alt="Rafael's top languages on GitHub">
 </picture>
-</a>
 <br />
 <a href="https://wakatime.com/@rafaelurben">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime/?username=rafaelurben&layout=compact&langs_count=12&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime/?username=rafaelurben&layout=compact&langs_count=12&theme=default">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelurben/rafaelurben/refs/heads/output/cards/wakatime-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafaelurben/rafaelurben/refs/heads/output/cards/wakatime-light.svg">
   <img alt="Rafael's wakatime language stats">
 </picture>
 </a>
-
 
 [![WakaTime code time](https://wakatime.com/badge/user/c61e21c4-90ec-4953-b64f-e1a589f1e09c.svg)](https://wakatime.com/@rafaelurben)
