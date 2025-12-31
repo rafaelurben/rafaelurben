@@ -1,0 +1,69 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "5 4 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card (dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&card_width=495&theme=dark&rank_icon=percentile&count_private=true
+          path: cards/stats-dark.svg
+          token: ${{ secrets.GH_STAT_TOKEN }}
+
+      - name: Generate stats card (light)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&card_width=495&theme=default&rank_icon=percentile&count_private=true
+          path: cards/stats-light.svg
+          token: ${{ secrets.GH_STAT_TOKEN }}
+
+      - name: Generate top languages card (dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=12&card_width=495&theme=dark
+          path: cards/top-langs-dark.svg
+          token: ${{ secrets.GH_STAT_TOKEN }}
+
+      - name: Generate top languages card (light)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=12&card_width=495&theme=default
+          path: cards/top-langs-light.svg
+          token: ${{ secrets.GH_STAT_TOKEN }}
+
+      - name: Generate wakatime card (dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: wakatime
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=12&theme=dark
+          path: cards/wakatime-dark.svg
+          token: ${{ secrets.GH_STAT_TOKEN }}
+
+      - name: Generate wakatime card (light)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: wakatime
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=12&theme=default
+          path: cards/wakatime-light.svg
+          token: ${{ secrets.GH_STAT_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git checkout -b output
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add cards/*.svg
+          git commit -m "chore: Generate README cards"
+          git push
