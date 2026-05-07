@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
 
       - name: Generate stats card (dark)
-        uses: readme-tools/github-readme-stats-action@b4d2ef3b8051484b318d455163153b23a2b35fa2 # v1.1.0
+        uses: readme-tools/github-readme-stats-action@d82657a0e215a28ec48bfc9b3987999a279f93be # v1.2.0
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&card_width=495&theme=dark&rank_icon=percentile&count_private=true
@@ -23,7 +23,7 @@ jobs:
           token: ${{ secrets.GH_STAT_TOKEN }}
 
       - name: Generate stats card (light)
-        uses: readme-tools/github-readme-stats-action@b4d2ef3b8051484b318d455163153b23a2b35fa2 # v1.1.0
+        uses: readme-tools/github-readme-stats-action@d82657a0e215a28ec48bfc9b3987999a279f93be # v1.2.0
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&card_width=495&theme=default&rank_icon=percentile&count_private=true
@@ -31,7 +31,7 @@ jobs:
           token: ${{ secrets.GH_STAT_TOKEN }}
 
       - name: Generate top languages card (dark)
-        uses: readme-tools/github-readme-stats-action@b4d2ef3b8051484b318d455163153b23a2b35fa2 # v1.1.0
+        uses: readme-tools/github-readme-stats-action@d82657a0e215a28ec48bfc9b3987999a279f93be # v1.2.0
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=12&card_width=495&theme=dark
@@ -39,7 +39,7 @@ jobs:
           token: ${{ secrets.GH_STAT_TOKEN }}
 
       - name: Generate top languages card (light)
-        uses: readme-tools/github-readme-stats-action@b4d2ef3b8051484b318d455163153b23a2b35fa2 # v1.1.0
+        uses: readme-tools/github-readme-stats-action@d82657a0e215a28ec48bfc9b3987999a279f93be # v1.2.0
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=12&card_width=495&theme=default
@@ -47,7 +47,7 @@ jobs:
           token: ${{ secrets.GH_STAT_TOKEN }}
 
       - name: Generate wakatime card (dark)
-        uses: readme-tools/github-readme-stats-action@b4d2ef3b8051484b318d455163153b23a2b35fa2 # v1.1.0
+        uses: readme-tools/github-readme-stats-action@d82657a0e215a28ec48bfc9b3987999a279f93be # v1.2.0
         with:
           card: wakatime
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=12&theme=dark
@@ -55,7 +55,7 @@ jobs:
           token: ${{ secrets.GH_STAT_TOKEN }}
 
       - name: Generate wakatime card (light)
-        uses: readme-tools/github-readme-stats-action@b4d2ef3b8051484b318d455163153b23a2b35fa2 # v1.1.0
+        uses: readme-tools/github-readme-stats-action@d82657a0e215a28ec48bfc9b3987999a279f93be # v1.2.0
         with:
           card: wakatime
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=12&theme=default
